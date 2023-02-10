@@ -1,0 +1,28 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+img {
+    height: 25%;
+    width: 25%;
+    user-select: none;
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+}
+
+.yum {
+    margin-left: 4rem;
+}
+
+.cf {
+    padding-top: 1rem;
+    margin-right: 2rem;
+}
